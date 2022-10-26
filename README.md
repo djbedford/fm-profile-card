@@ -22,12 +22,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./fm-rofile-card-screenshot.jpg)
+![](./fm-rofile-card-screenshot.png)
 
 ### Links
 
 - Solution URL: (https://github.com/djbedford/fm-profile-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://sensational-pudding-879a6d.netlify.app)
 
 ## My process
 
