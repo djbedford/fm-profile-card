@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --bg-primary: 185deg, 75%, 39%;
+        --text-primary: 227deg, 10%, 46%;
+        --text-secondary: 229deg, 23%, 23%;
+    }
+}
